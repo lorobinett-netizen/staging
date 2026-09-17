@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "tested_commit": "3d4819258699eee05ec23933ad89a55c3e4289fc",
+  "producer_script_sha256": "8389d45c31d58cc405e3fcdf245f4ab375bffccd6f655467922c47e3e3b2fc57",
+  "contract_test_sha256": "b0d13a46602c896c73a3fa3075762eb6ff33d15d2dcf799f29108a0af0796214",
+  "event_type": "elevenlabs_configuration_approved",
+  "required_client_payload_fields": [
+    "release_id",
+    "change_summary"
+  ]
+}
